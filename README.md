@@ -8,6 +8,7 @@ Data Cleaning Process:
 Tools Used:
 •	MS Excel for data cleaning.
 •	Power BI for data analysis and visualization.
+
 Key Insights:
 •	Total Revenue Generated: $21,736 (in thousands).
 •	Most Purchased Product: Jackets.
@@ -24,6 +25,7 @@ Key Takeaways and Observations:
 o	Aisle: Items placed in the aisle had the highest sales volume.
 o	End-Cap: Products displayed at the end of store aisles also performed well.
 o	Front of Store: Surprisingly, products placed at the front of the store had lower sales compared to those in the aisle. This may indicate that customers prefer to browse the store’s aisles more than the front display area.
+
 Recommendations:
 1.	Promotions: Given that promotional periods significantly boosted sales, Zara should continue to focus on offering timely discounts and promotions. Additionally, they might consider increasing the frequency of promotions for high-demand categories like Jackets and seasonal collections to drive further sales growth.
 2.	Product Placement: The data shows that products placed in the aisle and on end-caps outperform those at the front of the store. Zara should consider optimizing product placement, ensuring that high-demand or high-margin items, such as Jackets, are prominently displayed in high-traffic areas like the aisles and end-caps.
